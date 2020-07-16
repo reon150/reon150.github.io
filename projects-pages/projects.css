@@ -9,8 +9,7 @@
 
 .tech-inline {
     display: inline-block;
-    margin-right: 20px;
-    margin-bottom: 20px;
+    margin: 0 20px;
 }
 
 p {
